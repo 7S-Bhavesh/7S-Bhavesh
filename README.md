@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7S-Bhavesh
+- 👋 Hi, I’m Bhavesh Shinde
 - 👀 I’m interested in Problem Solving,Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on MernStack projects
